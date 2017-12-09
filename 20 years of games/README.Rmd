@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "vh42720"
+date: "December 9, 2017"
+output: md_document
+---
+
+## Intro
+
+This analysis takes a look at the last 20 years in games. The dataset can be founded [here](https://www.kaggle.com/egrinstein/20-years-of-games/data)
+
+Please click on the analysis.md above to view
+
+[Rpubs link](https://rpubs.com/vh42720/eda_20_years_of_games)

@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "vh42720"
+date: "December 9, 2017"
+output: md_document
+---
+
+## Intro
+
+This analysis takes a look at video games sales in the last 30 years. The dataset can be founded [here](https://www.kaggle.com/gregorut/videogamesales)
+
+Please click on the vgsales.md above to view
+
+[Rpubs link](https://rpubs.com/vh42720/vgsales)

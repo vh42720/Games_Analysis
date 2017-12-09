@@ -1,0 +1,17 @@
+---
+title: "README"
+author: "vh42720"
+date: "December 9, 2017"
+output: md_document
+---
+
+## Intro
+
+This resposistory contains all gaming analysis. Each folder is a different analysis on different dataset. 
+
+This repos will be updated with new analysis.
+
+## Contact
+
+For any information please contact
+hangvinh94@gmail.com
